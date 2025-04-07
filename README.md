@@ -1,2 +1,2 @@
 # demo
-Using github for the first time
+Using github for the first time.
